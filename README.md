@@ -9,16 +9,17 @@ This repository contains a curated list of resources addressing degeneracy, part
 If you find this repository useful, please consider STARing this list. Feel free to share this list with others!
 
 ---
-## Table of contents
-
-
-
-[TOC]
+## Overview
+- [Awesome-Algorithms-Against-Degeneracy](#awesome-algorithms-against-degeneracy)
+  - [Overview](#overview)
+  - [Degeneracy  detection and mitigation](#degeneracy--detection-and-mitigation)
+  - [Robust SLAM](#robust-slam)
+  - [Point Cloud Registration](#point-cloud-registration)
+  - [Dataset](#dataset)
 
 <details span>
 <summary><b>Update Log:</b></summary>
 <br>
-
 **Oct 19, 2024**
 
 
@@ -29,7 +30,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 - create repo
 
 </details>
-<br> 
+<br>
 
 ---
 ## Degeneracy  detection and mitigation 
