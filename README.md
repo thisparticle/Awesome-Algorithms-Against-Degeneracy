@@ -11,12 +11,17 @@ If you find this repository useful, please consider STARing this list. Feel free
 ---
 ## Table of contents
 
+
+
 [TOC]
 
 <details span>
 <summary><b>Update Log:</b></summary>
 <br>
+
 **Oct 19, 2024**
+
+
 - Added 5 papers: Kinematic-ICP, Switch-slam, DRPM, A Point-to-distribution Degeneracy Detection Factor for LiDAR SLAM using Local Geometric Models, Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild
 
 **July 17, 2024**
