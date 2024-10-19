@@ -16,14 +16,22 @@ If you find this repository useful, please consider STARing this list. Feel free
 <details span>
 <summary><b>Update Log:</b></summary>
 <br>
+**Oct 19, 2024**
+- Added 5 papers: Kinematic-ICP, Switch-slam, DRPM, A Point-to-distribution Degeneracy Detection Factor for LiDAR SLAM using Local Geometric Models, Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild
 
 **July 17, 2024**
 
- - create repo
+- create repo
+
+</details>
+<br> 
 
 ---
 ## Degeneracy  detection and mitigation 
 
+* Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild, arXiv, 2024. [[paper](https://arxiv.org/abs/2408.11809)]
+* DRPM: Degeneracy Resilient Point-to-Plane Error Minimization, RAL, 2024. [[paper](https://arxiv.org/abs/2410.10784)] [[code](https://github.com/ntnu-arl/drpm?tab=readme-ov-file)]
+* A Point-to-distribution Degeneracy Detection Factor for LiDAR SLAM using Local Geometric Models, ICRA, 2024. [[paper](https://ieeexplore.ieee.org/document/10610340/)] [[code](https://github.com/jisehua/Degenerate-Detection)]
 * X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments, TRO, 2024. [[Paper](https://ieeexplore.ieee.org/document/10328716)] [[Webpage](https://sites.google.com/leggedrobotics.com/x-icp)] 
 * Learning-based Localizability Estimation for Robust LiDAR Localization, IROS, 2022. [[paper](https://ieeexplore.ieee.org/document/9982257)] [[code](https://github.com/leggedrobotics/L3E)]
 * Robust Rank Deficient SLAM, IROS, 2021. [[paper](https://ieeexplore.ieee.org/document/9636443)]
@@ -35,7 +43,11 @@ If you find this repository useful, please consider STARing this list. Feel free
 ---
 ## Robust SLAM
 
-* FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry, arXiv, 2024. [[paper](https://ieeexplore.ieee.org/document/9739244)] [[code](https://github.com/hku-mars/FAST-LIVO2)]
+* Switch-slam: Switching-based lidar-inertial-visual slam for degenerate environments, RAL, 2024. [[paper](https://ieeexplore.ieee.org/document/10582434)]
+
+* Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces, arXiv, 2024. [[paper](https://arxiv.org/abs/2410.10277)]
+
+* FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry, TRO, 2024. [[paper](https://ieeexplore.ieee.org/document/9739244)] [[code](https://github.com/hku-mars/FAST-LIVO2)]
 * Four years of multimodal odometry and mapping on the rail vehicles, JFR, 2024. [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22256)]
 * LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments, RAL, 2024. [[paper](https://ieeexplore.ieee.org/document/10404014)]
 
@@ -50,16 +62,17 @@ If you find this repository useful, please consider STARing this list. Feel free
 ## Point Cloud Registration
 
 * RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation, RAL, 2024. [[paper](https://ieeexplore.ieee.org/document/10502131)] [[code](https://github.com/ctu-mrs/RMS)]
+* Toward Certifying Maps for Safe Registration-Based Localization Under Adverse Conditions, RAL, 2023. [[paper](https://arxiv.org/abs/2309.04251)]
 
 ---
 ## Dataset
 
-* GEODE dataset 
+* GEODE dataset: Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios, arXiv, 2024. [[Paper](https://arxiv.org/abs/2409.04961)] [[website](https://thisparticle.github.io/geode/)]
 * SubT-MRS: Pushing SLAM Towards All-weather Environments, CVPR, 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_SubT-MRS_Dataset_Pushing_SLAM_Towards_All-weather_Environments_CVPR_2024_paper.pdf)] [[website](https://superodometry.com/datasets)]
 * [ENWIDE Dataset](https://projects.asl.ethz.ch/datasets/enwide) (related paper: COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry, ICRA, 2024. [[arXiv](https://arxiv.org/abs/2310.01235)] [[code](https://github.com/ethz-asl/COIN-LIO)])
-* [LiDAR Degeneracy Datasets](https://github.com/ntnu-arl/lidar_degeneracy_datasets) (related paper: COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry, ICRA, 2024. [[arXiv](https://arxiv.org/abs/2310.01235)] [[code](https://github.com/ethz-asl/COIN-LIO)])
+* [LiDAR Degeneracy Datasets](https://github.com/ntnu-arl/lidar_degeneracy_datasets) (related paper: Degradation Resilient LiDAR-Radar-Inertial Odometry, ICRA, 2024. [[arXiv](https://arxiv.org/abs/2403.05332)])
 * WHU-Helmet: A helmet-based multi-sensor SLAM dataset for the evaluation of real-time 3D mapping in large-scale GNSS-denied environments, IEEE Transactions on Geoscience and Remote Sensing, 2023. [[paper](https://ieeexplore.ieee.org/document/10123040/)] [[website](https://github.com/kafeiyin00/WHU-HelmetDataset)]
-
+* [Railroad-dataset](https://github.com/YushengWHU/Railroad-dataset)
 * Open-source datasets released by the SubT teams
   * [CERBERUS](https://www.subt-cerberus.org/code--data.html)
   * [CoSTAR](https://github.com/NeBula-Autonomy)
@@ -68,6 +81,3 @@ If you find this repository useful, please consider STARing this list. Feel free
   * [MARBLE  COLORADAR DATASET](https://arpg.github.io/coloradar/)
 
 ----
-## Star History
-
-[![Star History Chart](https://camo.githubusercontent.com/6ffebd30d04e08717437c94d96d7387c5953c899f14c4f772d9ec68baf391d3d/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d736a747579696e6a69652f617765736f6d652d4c694441522d56697375616c2d534c414d26747970653d54696d656c696e65)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
