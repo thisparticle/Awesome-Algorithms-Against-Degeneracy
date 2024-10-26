@@ -4,7 +4,7 @@ This repository contains a curated list of resources addressing degeneracy, part
 
 ![1641833866_1](README.assets/1641833866_1.gif)
 
-**Please feel free to send me [pull requests](https://github.com/thisparticle/Awesome-Implicit-NeRF-Robotics/blob/main/how-to-PR.md) or [email](mailto:muhammadzubairirshad@gmail.com) to add papers!**
+**Please feel free to send me [pull requests](https://github.com/thisparticle/Awesome-Algorithms-Against-Degeneracy/blob/main/how-to-PR.md)) or [email](mailto:zhiqiang_chen_hku@hotmail.com) to add papers!**
 
 If you find this repository useful, please consider STARing this list. Feel free to share this list with others!
 
