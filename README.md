@@ -21,6 +21,9 @@ If you find this repository useful, please consider STARing this list. Feel free
 <summary><b>Update Log:</b></summary>
 <br>
 
+**Nov 18, 2024**
+- Add 1 paper: GenZ-ICP.
+
 **Oct 19, 2024**
 - Added 5 papers: Kinematic-ICP, Switch-slam, DRPM, A Point-to-distribution Degeneracy Detection Factor for LiDAR SLAM using Local Geometric Models, Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild
 
