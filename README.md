@@ -68,7 +68,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 ## Point Cloud Registration
 
-* GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting, RAL, 2024. [[paper](https://arxiv.org/pdf/2411.06766)]
+* GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting, RAL, 2024. [[paper](https://arxiv.org/pdf/2411.06766)] [[code](https://github.com/cocel-postech/genz-icp)]
 * RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation, RAL, 2024. [[paper](https://ieeexplore.ieee.org/document/10502131)] [[code](https://github.com/ctu-mrs/RMS)]
 * Toward Certifying Maps for Safe Registration-Based Localization Under Adverse Conditions, RAL, 2023. [[paper](https://arxiv.org/abs/2309.04251)]
 
